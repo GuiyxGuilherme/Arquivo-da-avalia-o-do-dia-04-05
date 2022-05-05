@@ -1,0 +1,28 @@
+table {
+border: 2px solid;
+border-collapse: collapse;
+width:100%
+}
+img{
+
+}
+.logo {
+border: 2px solid;
+border-collapse: collapse
+border-radius: 10px
+
+}
+.principal{
+border: 2px solid;
+border-collapse: collapse
+
+}
+.bimestre{
+border: 2px solid;
+border-collapse: collapse;
+
+}
+.prontuario{
+color: red;
+
+}
